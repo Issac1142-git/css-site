@@ -1,0 +1,77 @@
+
+
+body{
+  margin: 0px;
+  text-align: center;
+  font-family: verdana, sans-serif;
+}
+
+h1{
+  margin: 0;
+  font-family: 'Sacramento', cursive;
+}
+
+h2{
+  font-family: 'Merriweather', serif;
+}
+h3{
+  font-family: 'Montserrat', sans-serif;
+}
+
+p{
+    font-family: 'Montserrat', sans-serif
+}
+
+
+.middle-container{
+  background-color: #ffb0cd;
+}
+
+.bottom-container{
+
+}
+.bottom-cloud{
+  position: absolute;
+  left: 300px;
+}
+
+.top-cloud
+{
+  padding-top: 40px;
+  position: absolute;
+  right: 300px;
+  top: 0px;
+
+}
+
+.top-container{
+  margin: 0;
+  background-color: powderblue;
+  padding-top: 100px;
+
+  position: relative;
+}
+
+
+.profileimg{
+  height: 150px;
+  width: 150px;
+  border-radius: 100%;
+}
+
+
+.skillsimg{
+  height: 350px;
+  width: 350px;
+
+}
+
+.pubg{
+  height: 300px;
+  width: 400px;
+}
+
+
+.footer{
+  background-color: green;
+}
